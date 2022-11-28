@@ -1,0 +1,101 @@
+<html>
+<html lang="pt-br">
+
+<head>
+    <title>wild fox</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
+        .navbar {
+            margin-bottom: 0;
+            border-radius: 0;
+        }
+
+        footer {
+            background-color: darkgray;
+            padding: 25px;
+        }
+
+        body {
+            background-color: darkslategray;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">wild fox</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li class="#"><a href="wild-fox.html">Página Principal</a></li>
+                    <li><a href="prod.html">acessorios </a></li>
+                    <li><a href="formpag.html">Formas de pagamento</a></li>
+                    <li><a href="#">quem somos</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Entar/Cadastro</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="jumbotron">
+        <div class="container text-center">
+            <div class="jumbotron"
+                style="background-image: url(https://www.canva.com/design/DAFTRHcSuqk/7-SA9sc9Wa-By5LGxytKhg/edit); background-size: 100% 100%;">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+                <h1></h1>
+                <p></p>
+            </div>
+        </div>
+
+        <div class="container-fluid bg-3 text-center">
+            <h2>Nossos acessorios gamer</h2>
+            <div class="row">
+                <div class="col-sm-3">
+                    <img src="https://cf.shopee.com.br/file/ff99f7099a4055dc0ca33a7daab1c9e5"
+                        class="img-responsive" style="width:100%" alt="Image">
+                        <p>Headset Razer naga v5 7.0</p> 
+                    </div>
+                <div class="col-sm-3">
+                    <img src="https://assets2.razerzone.com/images/pnx.assets/b47fd1b944e3d133e73ca2d46488b58b/razer-deathadder-v2-available-in-mobile-v2.jpg"
+                        class="img-responsive" style="width:100%" alt="Image">
+                        <p>mouse Razer deathadder-v2</p>
+                    </div>
+                <div class="col-sm-3">
+                    <img src="https://assets2.razerzone.com/images/pnx.assets/f83991a174978c3f88c089758ea9fa3c/blackwidow-v3-tenkeyless-usp1-mobile-v2.jpg"
+                        class="img-responsive" style="width:100%" alt="Image">
+                        <p>Teclado Razer blackwidow-v3</p>
+                    </div>
+                <div class="col-sm-3">
+                    <img src="https://t.ctcdn.com.br/imhBvJY2E06JMXJm1rXuhWEIbFs=/0x522:3685x2598/i553065.jpeg"
+                        class="img-responsive" style="width:100%" alt="Image">
+                        <p>Web Cam Logitec</p>
+                    </div>
+            </div>
+        </div><br><br><br><br><br>
+
+        <footer class="container-fluid text-center">
+            <h3>Não perca tempo e venha escolher seus equipamentos com o melhor preco do mercado.</h3>
+        </footer>
+
+</body>
+
+</html>
